@@ -28,3 +28,21 @@
 - AWS : All services expert AI services.
 - Programming : Implement REST APIs and cloud automation.
 - Open-sources tools (CNCF proejcts)
+  - Kubernetes
+  - Calico
+  - Cilium
+  - Istio (Envoy)
+  - ArgoCD
+  - Flux
+  - Helm
+  - KEDA
+  - Prometheus
+  - Grafana
+  - Falco
+  - Fluentd/Fluentbit
+  - Open Telemetry
+  - Jaeger
+  - CrossPlane
+  - Keycloak
+  - Kyverno
+  - Harbor
