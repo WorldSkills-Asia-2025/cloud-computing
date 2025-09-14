@@ -5,8 +5,8 @@
 - Countries : AU, TW, IN, IR, JP, KR, QA (7)
 
 ### Countries
-|---------|--------------|-------------|
 | Country | Competitor   | Expert      |
+|---------|--------------|-------------|
 | Australia | - | Elankayer Sithirasenan |
 | Chinese Taipei | - | Wu Ju-chuan |
 | India | - | Goutham Nanjundaswamy |
