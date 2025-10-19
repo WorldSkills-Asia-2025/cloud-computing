@@ -25,6 +25,7 @@
 - Full content release : C1
 
 ### Test Project Coverage - Day1
+The coverage of technologies addressed on Day1 is as follows. However, for Day2 and Day3, the tasks are based on existing AWS test projects, and the exact technologies used are not clearly known. It is understood that most tasks are based on AWS services, although occasionally some open-source tools may also be included.
 
 - AWS : All services expert AI services.
 - Programming : Implement REST APIs and cloud automation.
