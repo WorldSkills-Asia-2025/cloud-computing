@@ -11,5 +11,5 @@ The test project covered in this friendly match is not an official competition t
 - Camera (optional but recommended)
 
 # Schedule
-- 25th Oct 2025 KST
+- 13:00, 25th Oct 2025 KST
 - Duration - 4 hours
