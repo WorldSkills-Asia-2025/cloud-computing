@@ -24,7 +24,8 @@
 - Overview architecture release : C-7
 - Full content release : C1
 
-### Test Project Coverage
+### Test Project Coverage - Day1
+
 - AWS : All services expert AI services.
 - Programming : Implement REST APIs and cloud automation.
 - Open-sources tools (CNCF proejcts)
