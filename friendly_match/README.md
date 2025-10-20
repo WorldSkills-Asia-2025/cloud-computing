@@ -6,6 +6,7 @@ The test project covered in this friendly match is not an official competition t
 
 # Requirements
 - An empty AWS account
+- Issued DNS (Public hosted zone) in Route53
 - Laptop
 - Internet connection
 - Camera (optional but recommended)
