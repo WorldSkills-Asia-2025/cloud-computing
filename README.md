@@ -8,7 +8,7 @@
 | Country | Competitor   | Expert      |
 |---------|--------------|-------------|
 | Australia | - | Elankayer Sithirasenan |
-| Chinese Taipei | - | Wu Ju-chuan |
+| Chinese Taipei | Lin, Chen-Yi | Meng-Huang Lee |
 | India | - | Goutham Nanjundaswamy |
 | Iran | - | Alireza GoliBooshehri |
 | Japan | - | Kohei Fujii |
