@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About Our Company</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Arial, sans-serif;
+      background-color: #f9fafb;
+      margin: 0;
+      padding: 0;
+      color: #333;
+    }
+    header {
+      background-image: url('main.png');
+      background-size: cover;
+      background-position: center;
+      color: white;
+      padding: 100px 20px;
+      text-align: center;
+      position: relative;
+    }
+    header::after {
+      content: "";
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0, 0, 0, 0.45); /* 어두운 반투명 오버레이 */
+    }
+    header h1 {
+      position: relative;
+      z-index: 1;
+      font-size: 2.5em;
+      margin: 0;
+    }
+    section {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      background: white;
+      border-radius: 10px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+    h2 {
+      color: #1e3a8a;
+      border-bottom: 2px solid #1e40af;
+      padding-bottom: 8px;
+    }
+    ul {
+      list-style-type: square;
+      margin-left: 20px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background-color: #f1f5f9;
+      color: #555;
+      font-size: 0.9em;
+    }
+    @media (max-width: 600px) {
+      header { padding: 60px 10px; }
+      section { margin: 20px; }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>SkillsConcert</h1>
+  </header>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>
+      Our company provides a reliable concert booking system built on a cloud-based infrastructure.  
+      Even under heavy traffic, our system remains stable and ensures a seamless booking experience for all users. <br>
+      <b>DO NOT stress out anymore about the system freezing!</b>
+    </p>
+  </section>
+
+  <section id="how-it-works">
+    <h2>How It Works</h2>
+    <p>
+      We do not build your concert system directly.  
+      Instead, we provide booking functions through a REST API.  
+      You can integrate our API into your own system to build a customized booking platform.
+      Additionally, the cost is calculated based on the number of reservations made.
+    </p>
+  </section>
+
+  <section id="history">
+    <h2>Concert History</h2>
+    <ul>
+      <li>XXXXXXX Booking</li>
+      <li>YYYYYYY Booking</li>
+      <li>WSA9999 Booking</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>
+      📧 Email: <a href="mailto:no-reply@jukops.com">no-reply@jukops.com</a>
+    </p>
+  </section>
+
+  <footer>
+    © WSA 2025 Cloud Computing friendly match.
+  </footer>
+
+</body>
+</html>
+
