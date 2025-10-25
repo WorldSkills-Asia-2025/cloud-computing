@@ -22,4 +22,13 @@ The test project covered in this friendly match is not an official competition t
 - Please share the endpoint to invoke the Book and Query application. (e.g. https://abc.com)
 - The competition will finish at 17:15 KST.
 - Performance score dashboard: https://d1yqcznpka6udb.cloudfront.net/
-  - 101 | QA | 101 / wsi101
+| Country | Number   | ID/PW      |
+|---------|--------------|-------------|
+| Australia | 101 | 101 / wsi101 |
+| Chinese Taipei | 102 | 102 / wsi102 |
+| India | 103 | 103 / wsi103 |
+| Iran | 104 | 104 / wsi104 |
+| Japan | 105 | 105 / wsi105 |
+| Korea   | 106 | 106 / wsi106 |
+| Qatar | 107 | 107 / wsi107 |
+
