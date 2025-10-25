@@ -14,3 +14,7 @@ The test project covered in this friendly match is not an official competition t
 # Schedule
 - 13:00, 25th Oct 2025 KST
 - Duration - 4 hours
+
+# Competition notice
+- Please use t3.medium for the all EC2. DO NOT use Fargate.
+- Please use us-east-1.
