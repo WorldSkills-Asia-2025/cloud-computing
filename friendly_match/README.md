@@ -18,3 +18,5 @@ The test project covered in this friendly match is not an official competition t
 # Competition notice
 - Please use t3.medium for the all EC2. DO NOT use Fargate.
 - Please use us-east-1.
+- Please create a ReadOnly IAM user, and share the AccessKey/Secret to KR expert. You can delete it after the competition.
+- Please share the endpoint to invoke the Book and Query application. (e.g. https://abc.com)
