@@ -20,3 +20,4 @@ The test project covered in this friendly match is not an official competition t
 - Please use us-east-1.
 - Please create a ReadOnly IAM user, and share the AccessKey/Secret to KR expert. You can delete it after the competition.
 - Please share the endpoint to invoke the Book and Query application. (e.g. https://abc.com)
+- The competition will finish at 17:15 KST.
