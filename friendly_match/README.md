@@ -21,3 +21,4 @@ The test project covered in this friendly match is not an official competition t
 - Please create a ReadOnly IAM user, and share the AccessKey/Secret to KR expert. You can delete it after the competition.
 - Please share the endpoint to invoke the Book and Query application. (e.g. https://abc.com)
 - The competition will finish at 17:15 KST.
+- Performance score dashboard: https://d1yqcznpka6udb.cloudfront.net/
