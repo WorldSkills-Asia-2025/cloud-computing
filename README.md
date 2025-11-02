@@ -41,6 +41,7 @@ The coverage of technologies addressed on Day1 is as follows. However, for Day2 
   - Prometheus
   - Grafana
   - Falco
+  - Loki
   - Fluentd/Fluentbit
   - Open Telemetry
   - Jaeger
@@ -48,3 +49,4 @@ The coverage of technologies addressed on Day1 is as follows. However, for Day2 
   - Keycloak
   - Kyverno
   - Harbor
+  - AWS Controllers for Kubernetes
